@@ -1,6 +1,5 @@
 # Mystic Cave Adventure
 
-![Mystic Cave Adventure Banner](https://via.placeholder.com/800x200.png?text=Mystic+Cave+Adventure)
 
 ## Description
 
@@ -21,11 +20,3 @@
 
 - **Python 3.6+**: Ensure Python is installed on your system. [Download Python](https://www.python.org/downloads/)
 - **colorama Library**: For colored text in the terminal.
-
-### Steps
-
-1. **Clone the Repository**
-
-   ```bash
-   git clone https://github.com/yourusername/mystic-cave-adventure.git
-   cd mystic-cave-adventure
